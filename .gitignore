@@ -1,0 +1,20 @@
+# Laravel backend - separate repository
+/backend/
+
+# Node dependencies
+/node_modules/
+
+# Build files
+/dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Editor files
+.vscode/
+.idea/
